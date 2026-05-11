@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.67.76.40:2087?encryption=none&host=mybloh.ccwu.cc&path=/&security=tls&sni=mybloh.ccwu.cc&type=ws#🍬97@oneclickvpnkeys
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#@ProxyV2IR
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#@oxnet_ir | ترکیب 14
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#KurdConfing
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
@@ -503,3 +501,5 @@ vless://d429f68f-6185-4591-a104-92a399f62774@digipay.ir:80?type=ws&encryption=no
 vless://d429f68f-6185-4591-a104-92a399f62774@digipay.ir:80?type=ws&encryption=none&path=/&host=asd.pixserver.ir&security=none#[51993] - Telegram : @V2All
 vless://d55d61bf-5fb9-4020-b67c-45776a807b8b@185.143.233.5:2082?path=/&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#@Brayirani •☕ | عضو شید قطع نشید .
 vless://d55d61bf-5fb9-4020-b67c-45776a807b8b@185.143.233.5:2082?path=/&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#@oxnet_ir | ترکیب 15
+vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://d6b8c7b8-91f1-43be-8420-4c7603eed70c@185.143.233.200:2086?path=/&security=none&encryption=none&host=nima.hayalco.ir&type=ws#🚀@NetZone_ir
