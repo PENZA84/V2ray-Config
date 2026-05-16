@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://36636436-6636-4263-a563-386365393432@185.143.233.203:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#🇮🇷24891 | ⚡️Telegram = t.me/@imokping
-vless://36a7ca5f-a870-48fa-b819-d5c67bf76413@zir.alihapps3.aghanami.ir:80?path=/&security=none&encryption=none&type=ws#@icv2ray
-vless://36d51eae-04be-473f-9a34-096e2f466826@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73730
-vless://37b3c481-a327-4c9a-9907-9024861cbc2e@s2.isfahangaming.com:2082?path=/&security=none&encryption=none&host=s2.isfahangaming.com&type=ws#سرور مولتی تانل || HalonetVPN
-vless://37b3c481-a327-4c9a-9907-9024861cbc2e@s2.isfahangaming.com:2082?path=/&security=none&encryption=none&host=s2.isfahangaming.com&type=ws#🇩🇪Germany, Frankfurt am Main | 🌐 IP: 185.192.23.11 | ⏳ping:4267.15ms | 📢 @NamazVPN
-vless://37b9d175-d01e-4bdf-9217-579cdcad542e@104.18.16.56:443?path=/&security=tls&encryption=none&insecure=1&host=Mio.purplrose.ir&type=ws&allowInsecure=1&sni=Mio.purplrose.ir#@wedbazgap
-vless://3800b1a5-9b82-49bc-8298-66c826467ec3@arvancloud.ir:80?path=/&security=none&encryption=none&host=eth2.ghostantaniehh.ir&type=ws#@Confixio
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#🔵@chillguy_vpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@50.7.4.244:80?encryption=none&type=ws&path=/&host=vip.yaml7.ggff.net#@V2ray_confiig
@@ -503,3 +496,10 @@ vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=
 vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666
 vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666  به عشق خودتون❤️
 vless://897da4d2-543a-4cbc-bb38-1a4a599d6543@www.speedtest.net:8443?path=/eyJqdW5rIjoiNGxXdzBkdEdZSGdjRkVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.pavof74662.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.pavof74662.wOrkErs.dEv#1 🇩🇪 @V2ngFast
+vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#
+vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@SryLove
+vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@icv2ray
+vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@irconfiig
+vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#🇮🇷24890 | ⚡️Telegram = t.me/@imokping
+vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&insecure=0&host=khamenei.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=KhAmeneI.DPdNs.OrG#@v2npv 🚀 اتصال رایگان
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn

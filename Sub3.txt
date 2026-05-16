@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@SryLove
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@icv2ray
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@irconfiig
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#🇮🇷24890 | ⚡️Telegram = t.me/@imokping
-vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&insecure=0&host=khamenei.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=KhAmeneI.DPdNs.OrG#@v2npv 🚀 اتصال رایگان
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-180
 vless://8aabd657-cf3d-449f-818c-b9ccf5ea6585@pro.halotwo.website:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=pro.halotwo.website&type=ws#1875rc5g-1.00GB%F0%9F%93%8A-30D%E2%8F%B3
 vless://8aabd657-cf3d-449f-818c-b9ccf5ea6585@pro.halotwo.website:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=pro.halotwo.website&type=ws#1875rc5g-1.00GB%F0%9F%93%8A-30D%E2%8F%B3  ✔️کاملا متصل،
@@ -503,3 +496,10 @@ vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNet
 vless://f33b2b7b-7c44-4448-99a2-4de4499e49d9@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@mobo_game_land 📱
 vless://f358f62d-eda3-48a3-a52a-d7020ce15d79@gemini.vhuma.com:65?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#@config_free2
 vless://f358f62d-eda3-48a3-a52a-d7020ce15d79@gemini.vhuma.com:65?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#@config_free2  location:🇩🇪  @config_free2
+vless://f358f62d-eda3-48a3-a52a-d7020ce15d79@pm5.vhuma.com:443?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#@Pirimod
+vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#@V2ray_confiig
+vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#@electvpn0
+vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#@filembad
+vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#[56118] - Telegram : @V2All
+vless://f4bb9213-44b9-4b0c-b6f9-006b64283b44@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#🌐 tel : @v2ray_unit
+vless://f546691e-c631-45a5-a399-fbf0d1a4fa02@185.120.16.208:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=BDyM9fEqTWGuUfygYOQVEomwVdNv2A3cj-M1t00fBHw&security=reality&sid=d1e8a2f6c3b90754&sni=fastcdn.hoyoverse.com&type=tcp#🧔‍♂️4@oneclickvpnkeys
