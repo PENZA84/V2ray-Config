@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://32adfd9a-0879-4164-a155-f5cbee0d88a0@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
-vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#@filembad
 vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#@icv2ray
 vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#V2rayng_Fast
 vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#[61356] - Telegram : @V2All
@@ -503,3 +501,5 @@ vless://6e7ebcd9-4bf7-4eb6-b275-0561d933a8bb@185.143.233.66:443?encryption=none&
 vless://6ea47818-6337-43f4-8c8a-ab9d2758f00c@185.143.235.200:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=v1.pariroo-beauty.store&fp=chrome&type=ws&allowInsecure=1&sni=v1.pariroo-beauty.store#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://6ea47818-6337-43f4-8c8a-ab9d2758f00c@185.143.235.200:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=v1.pariroo-beauty.store&fp=chrome&type=ws&allowInsecure=1&sni=v1.pariroo-beauty.store#🇮🇷27159 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6ee67798-ca84-4938-9616-7cbd0179e614@rfral.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@V2ray_confiig
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
+vless://6fe3a0be-2301-4240-b94d-a69b3d04f14e@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
