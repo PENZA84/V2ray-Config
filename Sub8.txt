@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83da6fcd-0909-49c5-adb8-2cdc3bb971e4@104.17.128.87:8880?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-xmtpkf.alirezaalinn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xmtpkf.alirezaalinn.workers.dev#🚀@VPNine1
 vless://83da6fcd-0909-49c5-adb8-2cdc3bb971e4@104.17.130.182:2083?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-xmtpkf.alirezaalinn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xmtpkf.alirezaalinn.workers.dev#🚀@VPNine1
 vless://83da6fcd-0909-49c5-adb8-2cdc3bb971e4@104.17.130.182:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-xmtpkf.alirezaalinn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xmtpkf.alirezaalinn.workers.dev#🚀@VPNine1
 vless://83da6fcd-0909-49c5-adb8-2cdc3bb971e4@104.17.130.182:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-xmtpkf.alirezaalinn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xmtpkf.alirezaalinn.workers.dev#🚀@VPNine1
@@ -502,4 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&enc
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@v2rayNplus
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.110:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@hopev2ray🤍
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
