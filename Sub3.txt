@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=/assignment#@meliproxyy
-trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&host=www.calmloud.com&path=/assignment#kurdconfig
 trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🦌@ProxyVPN11 - 6
 trojan://humanity@104.18.152.73:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#🕯️ - 10
 trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |3
@@ -503,3 +501,5 @@ vless://0b98e40b-996a-41bc-8503-4f0772a293d5@bot.sobhanpor.ir:443?security=tls&e
 vless://0b98e40b-996a-41bc-8503-4f0772a293d5@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮@irconfiig
 vless://0bd0838b-684b-43a0-8a1c-19b79c80ec81@anipanel.alphanistam.ir:7326?security=reality&encryption=none&pbk=UQPZ09IzbcH0QtWGBQWlXInQ0d0FnfOz6wRdWvgxe3Y&headerType=none&fp=chrome&type=tcp&sni=anipanel.alphanistam.ir&sid=ca9310c5654fa333#[90653] - Telegram : @V2All
 vless://0bd0838b-684b-43a0-8a1c-19b79c80ec81@anipanel.alphanistam.ir:7326?security=reality&encryption=none&pbk=UQPZ09IzbcH0QtWGBQWlXInQ0d0FnfOz6wRdWvgxe3Y&headerType=none&fp=chrome&type=tcp&sni=anipanel.alphanistam.ir&sid=ca9310c5654fa333#🇩🇪@FreakConfig
+vless://0bd81ae7-1739-49d5-97e1-fce43cd8fb17@book.korzelo.ir:2083?path=/&security=&encryption=none&host=play.google.com&type=ws#[🇺🇸]@NetliVPN
+vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?security=reality&encryption=none&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8ypjIslksAYgA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#@MARAMBASHI 💙
