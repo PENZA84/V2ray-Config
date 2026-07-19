@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c1000175-0b05-46e3-b0f5-1985ffa1ee55@sp.foot8all.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=abbb6e5e07cdf34b#🔵@chillguy_vpn
 vless://c1000175-0b05-46e3-b0f5-1985ffa1ee55@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#@FarazV2ray
 vless://c1000175-0b05-46e3-b0f5-1985ffa1ee55@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#@erfanandroid
 vless://c1000175-0b05-46e3-b0f5-1985ffa1ee55@sp.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#@tootffarangi🍓-1 trojan://-
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.176.9:22223?security=none&enc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22222?security=&encryption=none&headerType=none&type=tcp#🌐t.me/iProxyChannel 15
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22223?security=&encryption=none&headerType=none&type=tcp#🌐t.me/iProxyChannel 6
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22224?security=&encryption=none&headerType=none&type=tcp#🌐t.me/iProxyChannel 4

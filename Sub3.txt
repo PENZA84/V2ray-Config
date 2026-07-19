@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@IRAN_V2RAY1
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🦊7
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🦬 3
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🧅 3
@@ -503,3 +502,4 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#TEL;Father_vpn
 vless://17508e58-86ab-4b3b-9513-b8d3269316c9@marzban-node-production-069b.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-069b.up.railway.app&sni=marzban-node-production-069b.up.railway.app&fp=chrome&alpn=h2#🇺🇸115040 | ⚡️Telegram = t.me/SOSkeyNET
+vless://17508e58-86ab-4b3b-9513-b8d3269316c9@marzban-node-production-069b.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-069b.up.railway.app&sni=marzban-node-production-069b.up.railway.app&fp=chrome&alpn=h2#🇺🇸US-🚀@VPNine1

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://CF68213490@composed-sheep.rooster465.autos:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
 trojan://CF68213490@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
 trojan://CF68213490@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
@@ -503,3 +502,4 @@ vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?encryption=none&h
 vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@104.16.106.213:8880?&security=none&type=ws&headerType=&host=steep-glitter-7c3c.367-5c9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.17.32.173:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
 vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.19.114.52:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
+vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.208.163:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%3E%3E%40flyv2ray%3A%3AXX
